@@ -1,4 +1,4 @@
-es6 以前.
+# ES6 まで
 ```js
 var Jyanken = (function () {
     function Jyanken(hand) {
@@ -22,7 +22,9 @@ var Jyanken = (function () {
 
     return Jyanken;
 })();
-
+```
+使用方法
+```js
 // インスタンス作成
 const jyankenInstance = new Jyanken();
 jyankenInstance.poi();
@@ -32,7 +34,7 @@ jyankenInstance.__proto__.poi();
 Jyanken.prototype.poi();
 ```
 
-es6 以降
+# ES6 ～
 ```js
 class JyankenES6 {
     constructor(hand) {
@@ -54,7 +56,9 @@ class JyankenES6 {
         }
     }
 }
-
+```
+使用方法
+```js
 // インスタンス作成
 const jyankenES6Instance = new JyankenES6();
 jyankenES6Instance.poi();
@@ -64,6 +68,7 @@ jyankenES6Instance.__proto__.poi();
 JyankenES6.prototype.poi(); // いぜんプロトタイプベースは変わらない。
 ```
 
+---
 [JavaScript オブジェクト入門 | MDN](https://developer.mozilla.org/ja/docs/Learn/JavaScript/Objects)  
 ガイド：
 - オブジェクトの基本
