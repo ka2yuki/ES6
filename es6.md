@@ -1,4 +1,4 @@
-# ES6 まで
+# ES6 以前
 ```js
 var Jyanken = (function () {
     function Jyanken(hand) {
@@ -22,16 +22,6 @@ var Jyanken = (function () {
 
     return Jyanken;
 })();
-```
-使用方法
-```js
-// インスタンス作成
-const jyankenInstance = new Jyanken();
-jyankenInstance.poi();
-jyankenInstance.__proto__.poi();
-
-// 直接
-Jyanken.prototype.poi();
 ```
 
 # ES6 ～
@@ -57,7 +47,18 @@ class JyankenES6 {
     }
 }
 ```
-使用方法
+使用方法：es6以前
+```js
+// インスタンス作成
+const jyankenInstance = new Jyanken();
+jyankenInstance.poi();
+jyankenInstance.__proto__.poi();
+
+// 直接
+Jyanken.prototype.poi();
+```
+
+使用方法：es6～
 ```js
 // インスタンス作成
 const jyankenES6Instance = new JyankenES6();
