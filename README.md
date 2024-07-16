@@ -69,7 +69,7 @@ jyankenES6Instance.__proto__.poi();
 JyankenES6.prototype.poi(); // いぜんプロトタイプベースは変わらない。
 ```
 
-参考書籍:[ はじめてのフロントエンド開発](https://amzn.to/3y0cjXi)
+参考書籍:[ 作りながら学ぶ React入門](https://amzn.to/4d1pFBh)
 
 
 ---
