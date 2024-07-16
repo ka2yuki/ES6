@@ -70,7 +70,7 @@ JyankenES6.prototype.poi(); // いぜんプロトタイプベースは変わら�
 ```
 
   
-参考書籍:[ 作りながら学ぶ React入門](https://amzn.to/4d1pFBh)
+参考書籍:[ 作りながら学ぶ React入門](https://amzn.to/3xYvOiL)
   
   
 ---  
