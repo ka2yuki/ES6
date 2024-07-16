@@ -69,6 +69,9 @@ jyankenES6Instance.__proto__.poi();
 JyankenES6.prototype.poi(); // いぜんプロトタイプベースは変わらない。
 ```
 
+参考書籍:[ はじめてのフロントエンド開発](https://amzn.to/3y0cjXi)
+
+
 ---
 [JavaScript オブジェクト入門 | MDN](https://developer.mozilla.org/ja/docs/Learn/JavaScript/Objects)  
 ガイド：
