@@ -1,2 +1,2 @@
 # ES6
-- [Class構文](es6.md)
+- [ES6Class構文](es6.md)
