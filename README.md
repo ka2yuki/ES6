@@ -69,17 +69,10 @@ jyankenES6Instance.__proto__.poi();
 JyankenES6.prototype.poi(); // いぜんプロトタイプベースは変わらない。
 ```
 
-参考書籍:[ 作りながら学ぶ React入門](https://amzn.to/4d1pFBh)
-
-
----
-[JavaScript オブジェクト入門 | MDN](https://developer.mozilla.org/ja/docs/Learn/JavaScript/Objects)  
-ガイド：
-- オブジェクトの基本
-- オブジェクトプロトタイプ
-- オブジェクト指向プログラミング
-- JavaScript でのクラス
-- JSON データの操作
-- オブジェクト構築の練習  
   
-etc..
+参考書籍:[ 作りながら学ぶ React入門](https://amzn.to/4d1pFBh)
+  
+  
+---  
+
+📖[Document](document.md)
